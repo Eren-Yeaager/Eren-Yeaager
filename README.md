@@ -71,8 +71,8 @@ Software Development Engineer in Test with a strong focus on Web3 and blockchain
 
 - 📧 Email: saswatmarpureddy@gmail.com
 - 📱 Phone: +91-7894683311
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 💼 LinkedIn:[https://www.linkedin.com/in/marpureddy-saswat-352267219/]
+- 🌐 Portfolio: [https://saswat-r-portfolio.vercel.app/]
 
 ## 📚 Open Source Contributions
 
