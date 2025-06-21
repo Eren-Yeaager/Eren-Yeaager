@@ -1,7 +1,7 @@
 # Marpureddy Saswat 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg)](https://your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/marpureddy-saswat-352267219/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg)](https://saswat-r-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:saswatmarpureddy@gmail.com)
 
 ## About Me 🚀
